@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jack F. Murphy</title>
+    <link href="https://jack-alope.github.io/Publii-Site/feed.xml" rel="self" />
+    <link href="https://jack-alope.github.io/Publii-Site" />
+    <updated>2023-08-16T17:16:12+01:00</updated>
+    <author>
+        <name>Jack F. Murphy</name>
+    </author>
+    <id>https://jack-alope.github.io/Publii-Site</id>
+
+    <entry>
+        <title>Education</title>
+        <author>
+            <name>Jack F. Murphy</name>
+        </author>
+        <link href="https://jack-alope.github.io/Publii-Site/education.html"/>
+        <id>https://jack-alope.github.io/Publii-Site/education.html</id>
+        <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/1/education.jpg" medium="image" />
+
+        <updated>2023-08-16T17:15:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jack-alope.github.io/Publii-Site/media/posts/1/education.jpg" alt="Jack F. Murphy" />
+                    2022 - present The University of Cambridge PhD in Engineering, Biomedical - W.D Armstrong Studentship (2022-2026) - Honorary Robert Gardiner&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/1/education.jpg" class="type:primaryImage" alt="Jack F. Murphy" /></p>
+                <p><strong>2022 - present</strong><br>The University of Cambridge<br><i>     </i><em>PhD in Engineering, Biomedical</em><br>       - W.D Armstrong Studentship (2022-2026)<br><span dir="ltr" role="presentation">       - Honorary Robert Gardiner Memorial Scholarship (2022)</span><br><span dir="ltr" role="presentation">       - Engineering for Clinical Practice Grant (2022)</span></p>
+<p><strong>2018 - 2022</strong><br>Trinity College Dublin<br><i>     Baccalaureus in Arte Ingeniaria</i> (B.A.I.),<em> Biomedical Engineering</em>       <br>       - First Class Honours<br><span dir="ltr" role="presentation">       - Thesis: ’Metabiomaterial: Multi-layed 3D immunomodulating patch’</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>doi3bib</title>
+        <author>
+            <name>Jack F. Murphy</name>
+        </author>
+        <link href="https://jack-alope.github.io/Publii-Site/doi3bib.html"/>
+        <id>https://jack-alope.github.io/Publii-Site/doi3bib.html</id>
+        <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/7/doi3bib.png" medium="image" />
+            <category term="Projects"/>
+
+        <updated>2023-08-16T17:07:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jack-alope.github.io/Publii-Site/media/posts/7/doi3bib.png" alt="" />
+                    This project aims to create a robust platform that converts object identifiers into bibtex entries compatible with LaTeX. It is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/7/doi3bib.png" class="type:primaryImage" alt="" /></p>
+                <header class="post__inner post__header">
+<div class="post__meta">
+<div class="post__meta__right">
+<div class="post__updated"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">This project aims to create a robust platform that converts object identifiers into bibtex entries compatible with LaTeX. It is a simple javascript implementation that takes a DOI and converts it to a bibtex entry received from either doi.org or crossref.org. It parses that entry for known errors and corrects for them so they work correctly with LaTeX.</span></div>
+</div>
+</div>
+</header>
+<div class="post__inner">
+<div class="post__entry">
+<p>doi3bib is accessible at <a href="https://doi3bib.com">https://doi3bib.com</a>.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rianu</title>
+        <author>
+            <name>Jack F. Murphy</name>
+        </author>
+        <link href="https://jack-alope.github.io/Publii-Site/rianu.html"/>
+        <id>https://jack-alope.github.io/Publii-Site/rianu.html</id>
+        <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/5/rianu.png" medium="image" />
+            <category term="Projects"/>
+
+        <updated>2023-08-16T17:02:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jack-alope.github.io/Publii-Site/media/posts/5/rianu.png" alt="" />
+                    Rianú is an open-source software, released under the BSD 3-Clause License, designed to more efficiently track and analyze engineered cardiac&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/5/rianu.png" class="type:primaryImage" alt="" /></p>
+                <div class="post__entry">
+<p>Rianú is an open-source software, released under the BSD 3-Clause License, designed to more efficiently track and analyze engineered cardiac tissues. </p>
+<p>A journal article is available at <a href="https://doi.org/10.1016/j.cmpbup.2023.100107" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cmpbup.2023.100107</a>.</p>
+<p>Documentation is available at <a href="https://rianu.mrph.dev" target="_blank" rel="noopener noreferrer">https://rianu.mrph.dev</a>.</p>
+<p>Code is available at <a href="https://gitlab.com/hect-software/rianu" target="_blank" rel="noopener noreferrer">https://gitlab.com/hect-software/rianu</a>.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Publications</title>
+        <author>
+            <name>Jack F. Murphy</name>
+        </author>
+        <link href="https://jack-alope.github.io/Publii-Site/publications.html"/>
+        <id>https://jack-alope.github.io/Publii-Site/publications.html</id>
+        <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg" medium="image" />
+
+        <updated>2023-08-16T17:15:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg" alt="" />
+                    Google Scholar J. F. Murphy, K. D. Costa, and I. C. Turnbull, ‘Rianú: Multi-Tissue Tracking Software for Increased Throughput of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://scholar.google.com/citations?user=RwMPs-8AAAAJ&amp;hl=en" class="invert" target="_blank" rel="noopener">Google Scholar</a></p>
+<h4>2023</h4>
+<p><strong>J. F. Murphy</strong>, K. D. Costa, and I. C. Turnbull, ‘Rianú: Multi-Tissue Tracking Software for Increased Throughput of Engineered Cardiac Tissue Screening’, Computer Methods and Programs in Biomedicine Update, 2023, doi: <a href="https://doi.org/10.1016/j.cmpbup.2023.100107" target="_blank" rel="noopener noreferrer">10.1016/j.cmpbup.2023.100107</a>. </p>
+<h4>2019</h4>
+<p><strong>J. F. Murphy </strong>et al., ‘Adult human cardiac stem cell supplementation effectively increases contractile function and maturation in human engineered cardiac tissues’, Stem Cell Res Ther, vol. 10, no. 1, p. 373, Dec. 2019, doi: <a href="https://doi.org/10.1186/s13287-019-1486-4" target="_blank" rel="noopener noreferrer">10.1186/s13287-019-1486-4</a>.</p>
+<p>[Abstract] <strong>J. F. Murphy </strong>et al., 'Cardiac Stem Cells from Failing Heart Improve Contractility of Engineered Human Myocardium', Biomedical Engineering Society Annual Meeting 2019.</p>
+<p>[Abstract] S. I. Salazar et al., 'Comparison of cell culturing conditions and extracellular vesicles preservation techniques to maximize cardioactive potency of the adult stem cell secretome', New York Academy of the Sciences 2019.</p>
+<h4><strong>2018</strong></h4>
+<p>I. C. Turnbull, J. Mayourian, <strong>J. F. Murphy</strong>, F. Stillitano, D. K. Ceholski, and K. D. Costa, ‘Cardiac Tissue Engineering Models of Inherited and Acquired Cardiomyopathies’, in Experimental Models of Cardiovascular Diseases, vol. 1816, K. Ishikawa, Ed. New York, NY: Springer New York, 2018, pp. 145–159. doi: <a href="https://doi.org/10.1007/978-1-4939-8597-5_11" target="_blank" rel="noopener noreferrer">10.1007/978-1-4939-8597-5_11</a>.</p>
+<p>J. Mayourian et al., ‘Exosomal microRNA-21-5p Mediates Mesenchymal Stem Cell Paracrine Effects on Human Cardiac Tissue Contractility’, Circ Res, vol. 122, no. 7, pp. 933–944, Mar. 2018, doi: <a href="https://doi.org/10.1161/CIRCRESAHA.118.312420" target="_blank" rel="noopener noreferrer">10.1161/CIRCRESAHA.118.312420</a>.</p>
+<p>[Abstract] <strong>J. F. Murphy</strong> et al., <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16448" target="_blank" rel="noopener noreferrer">'Adult Human Cardiac Progenitor Cells Enhance Contractile Force in Human Engineered Cardiac Tissues'</a>, AHA Scientific Sessions 2018.</p>
+<p>[Abstract] I. C. Turnbull, <strong>J. F. Murphy</strong> et al., 'Heterocellular Coupling Mediates Pro-Contractile Effects Of Cardiac Progenitor Cells In Human Engineered Cardiac Tissue',</p>
+<div>International Society for Stem Cell Research 2018.</div>
+<div> </div>
+<div>[Abstract] <strong>J. F. Murphy</strong> et al., 'Cardiac Progenitor Cells Improve Function in Human Engineered Cardiac Tissues', New York City Science and Engineering Fair 2018.</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Saor Crimp</title>
+        <author>
+            <name>Jack F. Murphy</name>
+        </author>
+        <link href="https://jack-alope.github.io/Publii-Site/saor-crimp.html"/>
+        <id>https://jack-alope.github.io/Publii-Site/saor-crimp.html</id>
+        <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/6/saor_crimp.jpg" medium="image" />
+            <category term="Projects"/>
+
+        <updated>2023-08-16T17:09:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jack-alope.github.io/Publii-Site/media/posts/6/saor_crimp.jpg" alt="" />
+                    This was a project carried out as part of the engineering coursework at Trinity College Dublin. We were tasked with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/6/saor_crimp.jpg" class="type:primaryImage" alt="" /></p>
+                <header class="post__inner post__header">
+<div class="post__meta">
+<div class="post__meta__right">
+<div class="post__updated"> </div>
+</div>
+</div>
+</header>
+<div class="post__inner">
+<div class="post__entry">
+<p>This was a project carried out as part of the engineering coursework at Trinity College Dublin. We were tasked with designing a medical device using 3D printing technologies. We chose to design was a stent crimper that could be easily 3D printed and used on a lab bench or in the cath lab.</p>
+<p>Project website is available at <a href="https://stent.mrph.dev" target="_blank" rel="noopener noreferrer">https://stent.mrph.dev</a></p>
+<p>CAD files are available at <a href="  https://doi.org/10.5281/zenodo.8174111" target="_blank" rel="noopener noreferrer"> https://doi.org/10.5281/zenodo.8174111</a></p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Outside the Lab</title>
+        <author>
+            <name>Jack F. Murphy</name>
+        </author>
+        <link href="https://jack-alope.github.io/Publii-Site/outside-the-lab.html"/>
+        <id>https://jack-alope.github.io/Publii-Site/outside-the-lab.html</id>
+        <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/3/outside_the_lab.jpg" medium="image" />
+
+        <updated>2023-08-16T17:16:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jack-alope.github.io/Publii-Site/media/posts/3/outside_the_lab.jpg" alt="Jack F. Murphy" />
+                    Outside of research I enjoy staying active through a wide range of physical activities. Including rock climbing, hiking, obstacle course&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/3/outside_the_lab.jpg" class="type:primaryImage" alt="Jack F. Murphy" /></p>
+                <p>Outside of research I enjoy staying active through a wide range of physical activities. Including rock climbing, hiking, obstacle course racing, and ice hockey. I am on the Cambridge Men's Blues Ice Hockey Team (<a href="https://cambridgeicehockey.com">CUIHC</a>). </p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="6">
+<figure class="gallery__item"><a href="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/6.jpg" data-size="2016x1512"><img loading="lazy" src="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/6-thumbnail.jpg" alt="Jack F. Murphy" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/5.jpg" data-size="7149x4766"><img loading="lazy" src="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/5-thumbnail.jpg" alt="Jack F. Murphy" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/4.jpg" data-size="2124x1416"><img loading="lazy" src="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/4-thumbnail.jpg" alt="Jack F. Murphy" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/3.JPG" data-size="1200x1200"><img loading="lazy" src="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/3-thumbnail.JPG" alt="Jack F. Murphy" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/2.JPG" data-size="1600x1200"><img loading="lazy" src="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/2-thumbnail.JPG" alt="Jack F. Murphy" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/1.jpg" data-size="4000x3000"><img loading="lazy" src="https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/1-thumbnail.jpg" alt="Jack F. Murphy" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

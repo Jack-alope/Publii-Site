@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jack-alope.github.io/Publii-Site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/</loc>
+</url>
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/doi3bib.html</loc>
+<lastmod>2023-08-16T17:07:57+01:00</lastmod>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/7/doi3bib.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/education.html</loc>
+<lastmod>2023-08-16T17:15:47+01:00</lastmod>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/1/education.jpg</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/outside-the-lab.html</loc>
+<lastmod>2023-08-16T17:16:12+01:00</lastmod>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/outside_the_lab.jpg</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/6-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/5-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/4-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/3-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/2-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/3/gallery/1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Jack F. Murphy]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/publications.html</loc>
+<lastmod>2023-08-16T17:15:41+01:00</lastmod>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/rianu.html</loc>
+<lastmod>2023-08-16T17:02:17+01:00</lastmod>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/5/rianu.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jack-alope.github.io/Publii-Site/saor-crimp.html</loc>
+<lastmod>2023-08-16T17:09:55+01:00</lastmod>
+<image:image>
+<image:loc>https://jack-alope.github.io/Publii-Site/media/posts/6/saor_crimp.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
