@@ -3,7 +3,7 @@
     <title>Jack F. Murphy</title>
     <link href="https://jack-alope.github.io/Publii-Site/feed.xml" rel="self" />
     <link href="https://jack-alope.github.io/Publii-Site" />
-    <updated>2023-08-16T17:16:12+01:00</updated>
+    <updated>2023-08-24T10:46:08+01:00</updated>
     <author>
         <name>Jack F. Murphy</name>
     </author>
@@ -106,7 +106,7 @@
         <id>https://jack-alope.github.io/Publii-Site/publications.html</id>
         <media:content url="https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg" medium="image" />
 
-        <updated>2023-08-16T17:15:41+01:00</updated>
+        <updated>2023-08-24T10:46:08+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg" alt="" />
@@ -116,7 +116,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://jack-alope.github.io/Publii-Site/media/posts/2/publications.jpg" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://scholar.google.com/citations?user=RwMPs-8AAAAJ&amp;hl=en" class="invert" target="_blank" rel="noopener">Google Scholar</a></p>
+                <p><a href="https://scholar.google.com/citations?user=RwMPs-8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
 <h4>2023</h4>
 <p><strong>J. F. Murphy</strong>, K. D. Costa, and I. C. Turnbull, ‘Rianú: Multi-Tissue Tracking Software for Increased Throughput of Engineered Cardiac Tissue Screening’, Computer Methods and Programs in Biomedicine Update, 2023, doi: <a href="https://doi.org/10.1016/j.cmpbup.2023.100107" target="_blank" rel="noopener noreferrer">10.1016/j.cmpbup.2023.100107</a>. </p>
 <h4>2019</h4>
